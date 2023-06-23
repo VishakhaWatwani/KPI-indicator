@@ -4,7 +4,7 @@
 	"name": "Demo Gauge",
 	"description": "A gauge demo",
 	"newInstancePrefix": "Gauge",
-	"icon": "https://github.com/VishakhaWatwani/KPI-indicator/blob/3f7255a9a7fada3cc8048410e4cb7de6019815c1/icon.png",
+	"icon": "https://vishakhawatwani.github.io/KPI-indicator/icon.png",
 	"vendor": "Demo",
 	"eula": "EULA",
 	"license": "1.0",
@@ -12,21 +12,21 @@
 		{
 			"kind": "main",
 			"tag": "com-demo-gauge",
-			"url": "https://github.com/VishakhaWatwani/KPI-indicator/blob/47e335140e90eea1b4ae42b784449c0fda3836d1/box.js",
+			"url": "https://vishakhawatwani.github.io/KPI-indicator/box.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},
 		{
 			"kind": "styling",
 			"tag": "com-demo-gauge-sps",
-			"url": "https://github.com/VishakhaWatwani/KPI-indicator/blob/47e335140e90eea1b4ae42b784449c0fda3836d1/box_sps.js",
+			"url": "https://vishakhawatwani.github.io/KPI-indicator/box_sps.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},
 		{
 			"kind": "builder",
 			"tag": "com-demo-box-bps",
-			"url": "https://github.com/VishakhaWatwani/KPI-indicator/blob/47e335140e90eea1b4ae42b784449c0fda3836d1/box_bps.js",
+			"url": "https://vishakhawatwani.github.io/KPI-indicator/box_bps.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		}
